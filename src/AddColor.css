@@ -1,0 +1,17 @@
+.AddColor {
+	margin: 25px;
+	padding: 25px;
+	border: 1px solid black;
+}
+
+.AddColor-input{
+    width: 300px;
+}
+
+.AddColor-submit {
+	display: block;
+	align-self: center;
+	margin-left: auto;
+	margin-right: auto;
+    margin-top: 10px;
+}

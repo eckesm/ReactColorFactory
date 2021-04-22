@@ -1,0 +1,26 @@
+.ColorsList-heading {
+	margin: 10px;
+	border: 1px solid black;
+	padding: 25px;
+}
+
+.ColorsList-colors {
+	margin-top: 25px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.ColorsList-color {
+	margin: 5px;
+	padding: 5px;
+	font-weight: bold;
+	color: black;
+	border: 1px solid black;
+	transition: 400ms;
+}
+
+.ColorsList-color:hover {
+	/* background-color: black; */
+	color: white;
+}
